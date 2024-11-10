@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Freshly</string>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="gender_prompt">Select Gender</string>
+    <string name="openDrawer">Open</string>
+    <string name="closeDrawer">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="nav_drawer_options">
+        <item>Vegetables</item>
+    </string-array>
+    <string name="welcome_messgae">Welcome to Freshly! 🌱 Your one-stop app for fresh fruits, veggies</string>
+</resources>

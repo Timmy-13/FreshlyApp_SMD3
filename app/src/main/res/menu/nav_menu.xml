@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_category_0"
+        android:icon="@drawable/ic_all_products"
+        android:iconTint="@null"
+        android:title="All Products"/>
+    <item
+        android:id="@+id/nav_category_1"
+        android:icon="@drawable/ic_carrot"
+        android:iconTint="@null"
+        android:title="Vegetables"/>
+    <item
+        android:id="@+id/nav_category_2"
+        android:icon="@drawable/ic_grape"
+        android:iconTint="@null"
+        android:title="Fruits"/>
+    <item
+        android:id="@+id/nav_category_3"
+        android:icon="@drawable/ic_peanut"
+        android:title="Dry Fruits"/>
+</menu>
